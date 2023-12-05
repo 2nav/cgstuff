@@ -1,0 +1,36 @@
+[
+    {
+      "semester": "1",
+      "no_of_courses": "2",
+      "courses": [
+        {
+          "name": "MTL100",
+          "credits": 4.0,
+          "grade": "8"
+        },
+        {
+          "name": "COL100",
+          "credits": 4.0,
+          "grade": "8"
+        }
+      ],
+      "gpa": 8.0
+    },
+    {
+      "semester": "2",
+      "no_of_courses": "2",
+      "courses": [
+        {
+          "name": "COL106",
+          "credits": 5.0,
+          "grade": "8"
+        },
+        {
+          "name": "CVL100",
+          "credits": 2.0,
+          "grade": "10"
+        }
+      ],
+      "gpa": 8.571428571428571
+    }
+  ]
